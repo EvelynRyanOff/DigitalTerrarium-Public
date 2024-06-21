@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  BaseSystem.cpp
+  ParticleSystem.cpp
+  particleSimulator.cpp
+  ResourceManager.cpp
+D:\classes\csc473\EvelynRyan_FinalProject\EvelynRyan_finalProject_code\anim\particleSimulator.cpp(1029,8): warning C4101: 'char_type': unreferenced local variable
+D:\classes\csc473\EvelynRyan_FinalProject\EvelynRyan_finalProject_code\anim\particleSimulator.cpp(1099,8): warning C4101: 'char_type': unreferenced local variable
+  myScene.cpp
+  GlobalResourceManager.cpp
+  BaseSimulator.cpp
+  BaseObject.cpp
+  animTcl.cpp
+  anim.cpp
+  Generating Code...
+  anim.vcxproj -> D:\classes\csc473\EvelynRyan_FinalProject\EvelynRyan_finalProject_code\Build\anim.exe
